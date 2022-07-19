@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">フラッシュ暗算</string>
+    <string name="button_1">検定</string>
+    <string name="button_2">カスタム</string>
+    <string name="button_3">決定</string>
+    <string name="text1">桁数</string>
+    <string name="text2">口数</string>
+    <string name="text3">秒数</string>
+    <string name="icon_1">ホーム</string>
+    <string name="icon_2">リスト</string>
+    <string name="icon_3">リトライ</string>
+    <string name="icon_4">カスタム</string>
+    <string name="ans">答え</string>
+    <string name="hint">答え入力</string>
+</resources>
